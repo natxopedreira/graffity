@@ -1,0 +1,3 @@
+ofxBlackBox
+ofxOsc
+ofxXmlSettings
