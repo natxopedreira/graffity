@@ -1,4 +1,15 @@
-graffity
-========
+#Graffity
+===========
 
-graffity para el musical
+## Addons
+
+- [ofxTuio](https://github.com/patriciogonzalezvivo/ofxTuio) 
+ 
+- ofxOsc (native)
+- ofxXmlSettings (native)
+
+
+
+
+
+

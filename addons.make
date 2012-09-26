@@ -1,3 +1,3 @@
-ofxBlackBox
+ofxTuio
 ofxOsc
 ofxXmlSettings
