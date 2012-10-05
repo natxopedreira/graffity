@@ -54,6 +54,10 @@ void testApp::keyPressed(int key){
 		case 'f': ofToggleFullscreen(); break;
         case 'e': graffiti.bEditMode = !graffiti.bEditMode; break;
         case 'c': bColor = !bColor; break;
+        case 'i': graffiti.init(graffiti.x,
+                                graffiti.y,
+                                graffiti.width,
+                                graffiti.height); break;
         case ' ': graffiti.bClean = true; break;
         case '0': graffiti.nMode = 0; break;
         case '1': graffiti.nMode = 1; break;

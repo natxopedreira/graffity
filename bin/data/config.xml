@@ -2,13 +2,13 @@
     <OSCport>3434</OSCport>
     <defaultMode>0</defaultMode>
     <area>
-        <x>17</x>
-        <y>43</y>
-        <width>986</width>
-        <height>647</height>
+        <x>91.000000000</x>
+        <y>97.000000000</y>
+        <width>829.000000000</width>
+        <height>587.000000000</height>
     </area>
     <brush>
-        <size>38</size>
+        <size>38.000000000</size>
         <color>
             <r>255</r>
             <g>0</g>
@@ -21,27 +21,27 @@
     <stencilMode>
         <image>banksy.png</image>
         <area>
-            <x>35</x>
-            <y>38</y>
-            <width>538</width>
-            <height>580</height>
+            <x>29.000000000</x>
+            <y>85.000000000</y>
+            <width>399.000000000</width>
+            <height>458.000000000</height>
         </area>
     </stencilMode>
     <eraseMode>
         <area>
-            <x>644</x>
-            <y>18</y>
-            <width>330</width>
-            <height>572</height>
+            <x>52.000000000</x>
+            <y>43.000000000</y>
+            <width>330.000000000</width>
+            <height>572.000000000</height>
         </area>
     </eraseMode>
     <posterMode>
         <image>poster.jpg</image>
         <area>
-            <x>64</x>
-            <y>50</y>
-            <width>343</width>
-            <height>565</height>
+            <x>101.000000000</x>
+            <y>46.000000000</y>
+            <width>343.000000000</width>
+            <height>565.000000000</height>
         </area>
     </posterMode>
 </graffiti>
